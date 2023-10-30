@@ -1,0 +1,21 @@
+# Dependencies
+/node_modules
+
+# Environment secrets
+.env
+
+# Logs
+npm-debug.log*
+
+# OS related
+.DS_Store
+
+# Build directories (if you have any)
+/build
+
+# Test coverage directories (if you're generating coverage reports)
+/coverage
+
+# IDE related
+.vscode/
+.idea/
